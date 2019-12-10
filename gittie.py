@@ -19,3 +19,6 @@ print(c)
 def joke():
     print("knock, knock, who's there? - me, Gittie!")
 
+def shout():
+    print("I am shouting!!!!!!!!!")
+
