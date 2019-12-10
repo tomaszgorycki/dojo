@@ -10,6 +10,7 @@ def joke():
 
 def add(a,b):
     c=a+b
+    print(c)
     return(c)
 
 c=add(3,5)
