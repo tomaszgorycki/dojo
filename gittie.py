@@ -9,8 +9,9 @@ def joke():
     print("knock, knock, who's there? - me, Gittie!")
 
 def add(a,b,c):
-    c=a+b+c
-    return(c)
+    d=a+b+c
+    print(d)
+    return(d)
 
 c=add(3,5)
 print(c)
