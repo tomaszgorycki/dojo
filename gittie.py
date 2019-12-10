@@ -8,8 +8,8 @@ def introduce():
 def joke():
     print("knock, knock, who's there? - me, Gittie!")
 
-def add(a,b):
-    c=a+b
+def add(a,b,c):
+    c=a+b+c
     return(c)
 
 c=add(3,5)
